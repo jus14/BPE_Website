@@ -1,28 +1,38 @@
-# Bachelor of Physical Education Website
+BPE WEBSITE
 
-A simple-but-modern responsive website created for a website activity.
+Files:
+- index.html
+- style.css
+- script.js
 
-## Files
+INTERACTIVE FEATURES:
+- Responsive navigation menu
+- Smooth section navigation
+- Product search
+- Buy Now order form
+- Quantity selector
+- Shopping cart with quantity controls
+- Checkout confirmation that clears purchased cart items
+- Click-to-flip achievement cards
+- Contact form demonstration
+- FAQ accordion
+- Mobile responsive layout
 
-- `index.html` — main website
-- `styles.css` — design and responsive layout
-- `script.js` — mobile navigation and demo contact form
-- `assets/` — place your images here
+IMPORTANT:
+The ordering system is FRONT-END ONLY.
+It does NOT use a database.
+It does NOT use localStorage, sessionStorage, cookies, or a server.
+Order/customer details exist only temporarily in JavaScript memory while the page is open.
+Refreshing or closing the page clears the information.
+No real payment is processed.
 
-## How to open in VS Code
+You can replace the sample:
+- organization information
+- achievements
+- products
+- prices
+- contact details
+- product icons/images
 
-1. Extract the ZIP folder.
-2. Open VS Code.
-3. Select **File > Open Folder**.
-4. Choose the `BPE_Website` folder.
-5. Open `index.html`.
-6. For the easiest preview, install the **Live Server** extension in VS Code.
-7. Right-click `index.html` and select **Open with Live Server**.
-
-## Important
-
-The achievements, product names/prices, address, phone number, and email in this sample are placeholders. Replace them with your actual organization information.
-
-The required disclaimer is already included:
-
-"THIS WEBSITE IS FOR EDUCATIONAL PURPOSES ONLY."
+EDUCATIONAL DISCLAIMER:
+THIS WEBSITE IS FOR EDUCATIONAL PURPOSES ONLY.
